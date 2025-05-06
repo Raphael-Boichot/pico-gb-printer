@@ -1,6 +1,6 @@
 // Default pin configuration
 .define PUBLIC PIN_SCK     2
-.define PUBLIC PIN_SIN     0
+.define PUBLIC PIN_SIN     4
 .define PUBLIC PIN_SOUT    3
 
 //// STACKSMASHING BOARD
