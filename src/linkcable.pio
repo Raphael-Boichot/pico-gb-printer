@@ -3,6 +3,11 @@
 .define PUBLIC PIN_SIN     4
 .define PUBLIC PIN_SOUT    3
 
+// TinyGB Printer board
+//.define PUBLIC PIN_SCK     2
+//.define PUBLIC PIN_SIN     4
+//.define PUBLIC PIN_SOUT    3
+
 //// STACKSMASHING BOARD
 // .define PUBLIC PIN_SCK     0
 // .define PUBLIC PIN_SIN     1
