@@ -6,7 +6,7 @@
 #define FILE_BUFFER_SIZE        16384
 
 // LED pin, undefine to disable
-#define LED_PIN                 25
+#define LED_PIN                 16
 #ifdef LED_PIN
     #define LED_SET(A)          (gpio_put(LED_PIN, (A)))
     #define LED_ON              LED_SET(true)
@@ -19,7 +19,7 @@
 #endif
 
 // "Tear" button pin, undefine to disable
-#define PIN_KEY                 23
+#define PIN_KEY                 12
 
 // time intervals
 #define MKS(A)                  (A)
